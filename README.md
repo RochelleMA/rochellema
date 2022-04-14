@@ -17,3 +17,13 @@
   <a href="https://www.instagram.com/matosrochelle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/rochelle-matos-56238b62" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+
+  <div align="center">
+  
+  ![Snake animation](https://github.com/rochellema/rochellema/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+<div align="center">
+ <p>Créditos: <a href="https://github.com/duribeiro/github-readme-stats">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
+ 
