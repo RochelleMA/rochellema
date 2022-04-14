@@ -24,6 +24,6 @@
   
 </div>
 <div align="center">
- <p>Créditos: <a href=https://github.com/duribeiro/github-readme-stats">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+ <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
  
