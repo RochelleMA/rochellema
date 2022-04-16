@@ -1,4 +1,8 @@
-# Olá, seja bem vindo!
+# <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem vindo!</h1> 
+
+- 🔥 Participo do Bootcamp Carrefour Web Developer, uma parceria entre Carrefour e a DIO 
+
+- 👨‍💻 Estudando **JavaScript, HTML, CSS, ReactJS, JAVA e Springboot**
 
 <div align="center">
   <a href="https://github.com/rochellema">
