@@ -2,7 +2,8 @@
 
 - 👩‍💻 Estou Participando do Bootcamp Carrefour Web Developer, uma parceria entre Carrefour e a DIO 
 - 📬 Minhas redes sociais:
-<div align="left">
+  
+  <div align="left">
   <div>
   <a href="https://www.instagram.com/matosrochelle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/rochelle-matos-56238b62" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
