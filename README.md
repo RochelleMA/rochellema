@@ -1,7 +1,7 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem vindo!</h1> 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, welcome to my profile!</h1> 
 
-- 👩‍💻 Estou Participando do Bootcamp Carrefour Web Developer, uma parceria entre Carrefour e a DIO 
-- 📬 Minhas redes sociais:
+- 👩‍💻 I'm Participating in Carrefour Web Developer Bootcamp, a partnership between Carrefour and DIO 
+- 📬 Connect with me:
   
   <div align="left">
   <div>
@@ -10,12 +10,15 @@
   </div>
 
 ##
+  <h2> Stats </h2>
   
-<div align="center">
+  <div align="center">
   <a href="https://github.com/rochellema">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochellema&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochellema&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+<h2> Languages and Tools </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -24,7 +27,7 @@
     
    ##
   
-  <div align="center">
+ <div align="center">
   
   ![Snake animation](https://github.com/rochellema/rochellema/blob/output/github-contribution-grid-snake.svg)
   
