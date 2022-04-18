@@ -1,7 +1,15 @@
-# <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem vindo!</h1> 
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem vindo!</h1> 
 
-- 👨‍💻 Estou Participando do Bootcamp Carrefour Web Developer, uma parceria entre Carrefour e a DIO 
+- 👩‍💻 Estou Participando do Bootcamp Carrefour Web Developer, uma parceria entre Carrefour e a DIO 
+- 📬 Minhas redes sociais:
+<div align="left">
+  <div>
+  <a href="https://www.instagram.com/matosrochelle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/rochelle-matos-56238b62" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
+##
+  
 <div align="center">
   <a href="https://github.com/rochellema">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochellema&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -15,11 +23,6 @@
     
    ##
   
-  <div>
-  <a href="https://www.instagram.com/matosrochelle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/rochelle-matos-56238b62" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-
   <div align="center">
   
   ![Snake animation](https://github.com/rochellema/rochellema/blob/output/github-contribution-grid-snake.svg)
