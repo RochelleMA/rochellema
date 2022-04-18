@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, welcome to my profile!</h1> 
 
 - 👩‍💻 I'm Participating in Carrefour Web Developer Bootcamp, a partnership between Carrefour and DIO 
-- 📬 Connect with me:
+- 📬 Contact me:
   
   <div align="left">
   <div>
-  <a href="https://www.instagram.com/matosrochelle" target= "_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
+  <a href="https://www.instagram.com/matosrochelle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
   <a href="https://linkedin.com/in/rochelle-matos-56238b62" target= "_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"></a>
   <a href = "mailto:rchllmts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
   </div>
