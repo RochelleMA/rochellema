@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, welcome to my profile!</h1> 
 
-- 👩‍💻 I'm Participating in Carrefour Web Developer Bootcamp, a partnership between Carrefour and DIO 
+- 👩‍💻 I'm Participating in Carrefour Web Developer Bootcamp, a partnership between Carrefour and Digital Innovation One 
 - 📬 Contact me:
   
   <div align="left">
