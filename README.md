@@ -37,7 +37,7 @@
   
 </div>
   
-<div align="center">
-Créditos: <ahref="https://github.com/rafaballerini">Rafaella Ballerini</a>
-</div>
+<p align="center">
+  Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
+</p>
  
