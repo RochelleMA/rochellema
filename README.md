@@ -37,6 +37,8 @@
   
 </div>
 <div align="center">
- <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  
+ <p>Créditos: <ahref="https://github.com/rafaballerini">Rafaella Ballerini</a> </p>
+  
 </div>
  
