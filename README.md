@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/103073732/171200620-90f831be-78f8-4957-a6cc-531261135d20.gif", width="30px">, welcome to my profile!</h1> 
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/103073732/171200620-90f831be-78f8-4957-a6cc-531261135d20.gif" width="30px">, welcome to my profile!</h1> 
 
 - 👩‍💻 I'm Participating in Carrefour Web Developer Bootcamp, a partnership between Carrefour and Digital Innovation One 
 - 📬 Contact me:
